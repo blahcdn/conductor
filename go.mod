@@ -1,4 +1,4 @@
-module github.com/blahcdn/cdn/director
+module github.com/blahcdn/conductor
 
 go 1.16
 

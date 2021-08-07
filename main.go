@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	destination "github.com/blahcdn/cdn/director/proto/destination"
+	destination "github.com/blahcdn/proto/destination"
 	"google.golang.org/grpc"
 )
 
